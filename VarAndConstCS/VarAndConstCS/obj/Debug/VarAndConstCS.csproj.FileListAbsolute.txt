@@ -1,0 +1,7 @@
+C:\Users\anuwat\source\repos\VarAndConstCS\VarAndConstCS\obj\Debug\VarAndConstCS.csprojAssemblyReference.cache
+C:\Users\anuwat\source\repos\VarAndConstCS\VarAndConstCS\obj\Debug\VarAndConstCS.csproj.CoreCompileInputs.cache
+C:\Users\anuwat\source\repos\VarAndConstCS\VarAndConstCS\bin\Debug\VarAndConstCS.exe.config
+C:\Users\anuwat\source\repos\VarAndConstCS\VarAndConstCS\bin\Debug\VarAndConstCS.exe
+C:\Users\anuwat\source\repos\VarAndConstCS\VarAndConstCS\bin\Debug\VarAndConstCS.pdb
+C:\Users\anuwat\source\repos\VarAndConstCS\VarAndConstCS\obj\Debug\VarAndConstCS.exe
+C:\Users\anuwat\source\repos\VarAndConstCS\VarAndConstCS\obj\Debug\VarAndConstCS.pdb
