@@ -1,0 +1,7 @@
+C:\Users\anuwat\source\repos\RefAndValTypeCS\RefAndValTypeCS\bin\Debug\RefAndValTypeCS.exe.config
+C:\Users\anuwat\source\repos\RefAndValTypeCS\RefAndValTypeCS\bin\Debug\RefAndValTypeCS.exe
+C:\Users\anuwat\source\repos\RefAndValTypeCS\RefAndValTypeCS\bin\Debug\RefAndValTypeCS.pdb
+C:\Users\anuwat\source\repos\RefAndValTypeCS\RefAndValTypeCS\obj\Debug\RefAndValTypeCS.csproj.CoreCompileInputs.cache
+C:\Users\anuwat\source\repos\RefAndValTypeCS\RefAndValTypeCS\obj\Debug\RefAndValTypeCS.exe
+C:\Users\anuwat\source\repos\RefAndValTypeCS\RefAndValTypeCS\obj\Debug\RefAndValTypeCS.pdb
+C:\Users\anuwat\source\repos\RefAndValTypeCS\RefAndValTypeCS\obj\Debug\RefAndValTypeCS.csprojAssemblyReference.cache
