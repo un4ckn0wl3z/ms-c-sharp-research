@@ -1,0 +1,7 @@
+C:\Users\anuwat\source\repos\OOPCS\OOPCS\bin\Debug\OOPCS.exe.config
+C:\Users\anuwat\source\repos\OOPCS\OOPCS\bin\Debug\OOPCS.exe
+C:\Users\anuwat\source\repos\OOPCS\OOPCS\bin\Debug\OOPCS.pdb
+C:\Users\anuwat\source\repos\OOPCS\OOPCS\obj\Debug\OOPCS.csprojAssemblyReference.cache
+C:\Users\anuwat\source\repos\OOPCS\OOPCS\obj\Debug\OOPCS.csproj.CoreCompileInputs.cache
+C:\Users\anuwat\source\repos\OOPCS\OOPCS\obj\Debug\OOPCS.exe
+C:\Users\anuwat\source\repos\OOPCS\OOPCS\obj\Debug\OOPCS.pdb
