@@ -1,0 +1,6 @@
+C:\Users\anuwat\source\repos\InterateCS\InterateCS\bin\Debug\InterateCS.exe.config
+C:\Users\anuwat\source\repos\InterateCS\InterateCS\bin\Debug\InterateCS.exe
+C:\Users\anuwat\source\repos\InterateCS\InterateCS\bin\Debug\InterateCS.pdb
+C:\Users\anuwat\source\repos\InterateCS\InterateCS\obj\Debug\InterateCS.csproj.CoreCompileInputs.cache
+C:\Users\anuwat\source\repos\InterateCS\InterateCS\obj\Debug\InterateCS.exe
+C:\Users\anuwat\source\repos\InterateCS\InterateCS\obj\Debug\InterateCS.pdb

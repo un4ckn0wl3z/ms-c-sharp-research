@@ -1,0 +1,6 @@
+C:\Users\anuwat\source\repos\LoopCS\LoopCS\bin\Debug\LoopCS.exe.config
+C:\Users\anuwat\source\repos\LoopCS\LoopCS\bin\Debug\LoopCS.exe
+C:\Users\anuwat\source\repos\LoopCS\LoopCS\bin\Debug\LoopCS.pdb
+C:\Users\anuwat\source\repos\LoopCS\LoopCS\obj\Debug\LoopCS.csproj.CoreCompileInputs.cache
+C:\Users\anuwat\source\repos\LoopCS\LoopCS\obj\Debug\LoopCS.exe
+C:\Users\anuwat\source\repos\LoopCS\LoopCS\obj\Debug\LoopCS.pdb

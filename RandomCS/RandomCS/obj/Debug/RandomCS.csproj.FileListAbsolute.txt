@@ -1,0 +1,6 @@
+C:\Users\anuwat\source\repos\RandomCS\RandomCS\bin\Debug\RandomCS.exe.config
+C:\Users\anuwat\source\repos\RandomCS\RandomCS\bin\Debug\RandomCS.exe
+C:\Users\anuwat\source\repos\RandomCS\RandomCS\bin\Debug\RandomCS.pdb
+C:\Users\anuwat\source\repos\RandomCS\RandomCS\obj\Debug\RandomCS.csproj.CoreCompileInputs.cache
+C:\Users\anuwat\source\repos\RandomCS\RandomCS\obj\Debug\RandomCS.exe
+C:\Users\anuwat\source\repos\RandomCS\RandomCS\obj\Debug\RandomCS.pdb

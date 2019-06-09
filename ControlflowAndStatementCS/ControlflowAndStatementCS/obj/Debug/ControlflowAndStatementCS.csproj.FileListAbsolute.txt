@@ -1,0 +1,7 @@
+C:\Users\anuwat\source\repos\ControlflowAndStatementCS\ControlflowAndStatementCS\bin\Debug\ControlflowAndStatementCS.exe.config
+C:\Users\anuwat\source\repos\ControlflowAndStatementCS\ControlflowAndStatementCS\bin\Debug\ControlflowAndStatementCS.exe
+C:\Users\anuwat\source\repos\ControlflowAndStatementCS\ControlflowAndStatementCS\bin\Debug\ControlflowAndStatementCS.pdb
+C:\Users\anuwat\source\repos\ControlflowAndStatementCS\ControlflowAndStatementCS\obj\Debug\ControlflowAndStatementCS.csprojAssemblyReference.cache
+C:\Users\anuwat\source\repos\ControlflowAndStatementCS\ControlflowAndStatementCS\obj\Debug\ControlflowAndStatementCS.csproj.CoreCompileInputs.cache
+C:\Users\anuwat\source\repos\ControlflowAndStatementCS\ControlflowAndStatementCS\obj\Debug\ControlflowAndStatementCS.exe
+C:\Users\anuwat\source\repos\ControlflowAndStatementCS\ControlflowAndStatementCS\obj\Debug\ControlflowAndStatementCS.pdb
