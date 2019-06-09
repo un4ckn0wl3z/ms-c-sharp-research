@@ -1,0 +1,7 @@
+C:\Users\anuwat\source\repos\ArrayCS\ArrayCS\bin\Debug\ArrayCS.exe.config
+C:\Users\anuwat\source\repos\ArrayCS\ArrayCS\bin\Debug\ArrayCS.exe
+C:\Users\anuwat\source\repos\ArrayCS\ArrayCS\bin\Debug\ArrayCS.pdb
+C:\Users\anuwat\source\repos\ArrayCS\ArrayCS\obj\Debug\ArrayCS.csprojAssemblyReference.cache
+C:\Users\anuwat\source\repos\ArrayCS\ArrayCS\obj\Debug\ArrayCS.csproj.CoreCompileInputs.cache
+C:\Users\anuwat\source\repos\ArrayCS\ArrayCS\obj\Debug\ArrayCS.exe
+C:\Users\anuwat\source\repos\ArrayCS\ArrayCS\obj\Debug\ArrayCS.pdb

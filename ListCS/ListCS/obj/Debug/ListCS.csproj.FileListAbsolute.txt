@@ -1,0 +1,7 @@
+C:\Users\anuwat\source\repos\ListCS\ListCS\bin\Debug\ListCS.exe.config
+C:\Users\anuwat\source\repos\ListCS\ListCS\bin\Debug\ListCS.exe
+C:\Users\anuwat\source\repos\ListCS\ListCS\bin\Debug\ListCS.pdb
+C:\Users\anuwat\source\repos\ListCS\ListCS\obj\Debug\ListCS.csprojAssemblyReference.cache
+C:\Users\anuwat\source\repos\ListCS\ListCS\obj\Debug\ListCS.csproj.CoreCompileInputs.cache
+C:\Users\anuwat\source\repos\ListCS\ListCS\obj\Debug\ListCS.exe
+C:\Users\anuwat\source\repos\ListCS\ListCS\obj\Debug\ListCS.pdb
