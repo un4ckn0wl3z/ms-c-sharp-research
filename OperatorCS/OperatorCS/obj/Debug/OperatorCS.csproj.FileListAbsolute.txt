@@ -1,0 +1,6 @@
+C:\Users\anuwat\source\repos\OperatorCS\OperatorCS\bin\Debug\OperatorCS.exe.config
+C:\Users\anuwat\source\repos\OperatorCS\OperatorCS\bin\Debug\OperatorCS.exe
+C:\Users\anuwat\source\repos\OperatorCS\OperatorCS\bin\Debug\OperatorCS.pdb
+C:\Users\anuwat\source\repos\OperatorCS\OperatorCS\obj\Debug\OperatorCS.csproj.CoreCompileInputs.cache
+C:\Users\anuwat\source\repos\OperatorCS\OperatorCS\obj\Debug\OperatorCS.exe
+C:\Users\anuwat\source\repos\OperatorCS\OperatorCS\obj\Debug\OperatorCS.pdb
