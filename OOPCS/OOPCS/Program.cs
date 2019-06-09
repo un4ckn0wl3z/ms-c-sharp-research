@@ -1,4 +1,5 @@
 using System;
+using OOPCS.Enum;
 using OOPCS.Math;
 
 namespace OOPCS
@@ -40,12 +41,10 @@ namespace OOPCS
             Console.WriteLine(names[2]);
 
 
-  
             String screenName = "un4";
 
             int num;
             Int32 Num;
-
 
 
             var firstName = "Anuwat";
@@ -57,9 +56,9 @@ namespace OOPCS
             var myFullName = string.Format("My name is {0} {1}", firstName, lastName);
             Console.WriteLine(myFullName);
 
-            var namesArr = new string[3] { "Anuwat", "Pansa", "Surachad" };
+            var namesArr = new string[3] {"Anuwat", "Pansa", "Surachad"};
 
-            var forMattedName = string.Join("|",namesArr);
+            var forMattedName = string.Join("|", namesArr);
 
             Console.WriteLine(forMattedName);
 
@@ -69,6 +68,25 @@ namespace OOPCS
 Look into the following paths: 
 C:\Users\anuwat\Documents\git-repos\ms-c-sharp-research";
             Console.WriteLine(text);
+
+
+            var method = ShippingMethod.Express;
+
+            Console.WriteLine((int)method);
+
+            var methodId = 2;
+            Console.WriteLine((ShippingMethod)methodId);
+
+            Console.WriteLine(method); // call default ToString()
+
+            Console.WriteLine(method.ToString());
+
+            var methodName = "Express";
+
+            // parsing string to difference type
+
+           var shippingMethod =  (ShippingMethod)System.Enum.Parse(typeof(ShippingMethod), methodName);
+           Console.WriteLine(shippingMethod);
 
         }
     }
