@@ -1,0 +1,7 @@
+C:\Users\anuwat\source\repos\WorkingWithTextCS\WorkingWithTextCS\bin\Debug\WorkingWithTextCS.exe.config
+C:\Users\anuwat\source\repos\WorkingWithTextCS\WorkingWithTextCS\bin\Debug\WorkingWithTextCS.exe
+C:\Users\anuwat\source\repos\WorkingWithTextCS\WorkingWithTextCS\bin\Debug\WorkingWithTextCS.pdb
+C:\Users\anuwat\source\repos\WorkingWithTextCS\WorkingWithTextCS\obj\Debug\WorkingWithTextCS.csprojAssemblyReference.cache
+C:\Users\anuwat\source\repos\WorkingWithTextCS\WorkingWithTextCS\obj\Debug\WorkingWithTextCS.csproj.CoreCompileInputs.cache
+C:\Users\anuwat\source\repos\WorkingWithTextCS\WorkingWithTextCS\obj\Debug\WorkingWithTextCS.exe
+C:\Users\anuwat\source\repos\WorkingWithTextCS\WorkingWithTextCS\obj\Debug\WorkingWithTextCS.pdb
