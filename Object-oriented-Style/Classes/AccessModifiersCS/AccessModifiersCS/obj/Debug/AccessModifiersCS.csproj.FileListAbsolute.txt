@@ -1,0 +1,7 @@
+C:\Users\anuwat\source\repos\csoop\AccessModifiersCS\AccessModifiersCS\bin\Debug\AccessModifiersCS.exe.config
+C:\Users\anuwat\source\repos\csoop\AccessModifiersCS\AccessModifiersCS\bin\Debug\AccessModifiersCS.exe
+C:\Users\anuwat\source\repos\csoop\AccessModifiersCS\AccessModifiersCS\bin\Debug\AccessModifiersCS.pdb
+C:\Users\anuwat\source\repos\csoop\AccessModifiersCS\AccessModifiersCS\obj\Debug\AccessModifiersCS.csprojAssemblyReference.cache
+C:\Users\anuwat\source\repos\csoop\AccessModifiersCS\AccessModifiersCS\obj\Debug\AccessModifiersCS.csproj.CoreCompileInputs.cache
+C:\Users\anuwat\source\repos\csoop\AccessModifiersCS\AccessModifiersCS\obj\Debug\AccessModifiersCS.exe
+C:\Users\anuwat\source\repos\csoop\AccessModifiersCS\AccessModifiersCS\obj\Debug\AccessModifiersCS.pdb

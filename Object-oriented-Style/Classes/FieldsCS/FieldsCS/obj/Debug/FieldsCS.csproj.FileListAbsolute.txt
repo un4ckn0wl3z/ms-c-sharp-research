@@ -1,0 +1,7 @@
+C:\Users\anuwat\source\repos\csoop\FieldsCS\FieldsCS\bin\Debug\FieldsCS.exe.config
+C:\Users\anuwat\source\repos\csoop\FieldsCS\FieldsCS\bin\Debug\FieldsCS.exe
+C:\Users\anuwat\source\repos\csoop\FieldsCS\FieldsCS\bin\Debug\FieldsCS.pdb
+C:\Users\anuwat\source\repos\csoop\FieldsCS\FieldsCS\obj\Debug\FieldsCS.csprojAssemblyReference.cache
+C:\Users\anuwat\source\repos\csoop\FieldsCS\FieldsCS\obj\Debug\FieldsCS.csproj.CoreCompileInputs.cache
+C:\Users\anuwat\source\repos\csoop\FieldsCS\FieldsCS\obj\Debug\FieldsCS.exe
+C:\Users\anuwat\source\repos\csoop\FieldsCS\FieldsCS\obj\Debug\FieldsCS.pdb

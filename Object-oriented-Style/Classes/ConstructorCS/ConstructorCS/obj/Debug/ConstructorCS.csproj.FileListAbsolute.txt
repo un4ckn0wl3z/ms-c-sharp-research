@@ -1,0 +1,6 @@
+C:\Users\anuwat\source\repos\csoop\ConstructorCS\ConstructorCS\bin\Debug\ConstructorCS.exe.config
+C:\Users\anuwat\source\repos\csoop\ConstructorCS\ConstructorCS\bin\Debug\ConstructorCS.exe
+C:\Users\anuwat\source\repos\csoop\ConstructorCS\ConstructorCS\bin\Debug\ConstructorCS.pdb
+C:\Users\anuwat\source\repos\csoop\ConstructorCS\ConstructorCS\obj\Debug\ConstructorCS.csproj.CoreCompileInputs.cache
+C:\Users\anuwat\source\repos\csoop\ConstructorCS\ConstructorCS\obj\Debug\ConstructorCS.exe
+C:\Users\anuwat\source\repos\csoop\ConstructorCS\ConstructorCS\obj\Debug\ConstructorCS.pdb

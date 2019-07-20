@@ -1,0 +1,7 @@
+C:\Users\anuwat\source\repos\csoop\MethodsCS\MethodsCS\bin\Debug\MethodsCS.exe.config
+C:\Users\anuwat\source\repos\csoop\MethodsCS\MethodsCS\bin\Debug\MethodsCS.exe
+C:\Users\anuwat\source\repos\csoop\MethodsCS\MethodsCS\bin\Debug\MethodsCS.pdb
+C:\Users\anuwat\source\repos\csoop\MethodsCS\MethodsCS\obj\Debug\MethodsCS.csprojAssemblyReference.cache
+C:\Users\anuwat\source\repos\csoop\MethodsCS\MethodsCS\obj\Debug\MethodsCS.csproj.CoreCompileInputs.cache
+C:\Users\anuwat\source\repos\csoop\MethodsCS\MethodsCS\obj\Debug\MethodsCS.exe
+C:\Users\anuwat\source\repos\csoop\MethodsCS\MethodsCS\obj\Debug\MethodsCS.pdb

@@ -1,0 +1,7 @@
+C:\Users\anuwat\source\repos\csoop\PropertiesCS\PropertiesCS\bin\Debug\PropertiesCS.exe.config
+C:\Users\anuwat\source\repos\csoop\PropertiesCS\PropertiesCS\bin\Debug\PropertiesCS.exe
+C:\Users\anuwat\source\repos\csoop\PropertiesCS\PropertiesCS\bin\Debug\PropertiesCS.pdb
+C:\Users\anuwat\source\repos\csoop\PropertiesCS\PropertiesCS\obj\Debug\PropertiesCS.csproj.CoreCompileInputs.cache
+C:\Users\anuwat\source\repos\csoop\PropertiesCS\PropertiesCS\obj\Debug\PropertiesCS.exe
+C:\Users\anuwat\source\repos\csoop\PropertiesCS\PropertiesCS\obj\Debug\PropertiesCS.pdb
+C:\Users\anuwat\source\repos\csoop\PropertiesCS\PropertiesCS\obj\Debug\PropertiesCS.csprojAssemblyReference.cache

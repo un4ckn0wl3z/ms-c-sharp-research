@@ -1,0 +1,7 @@
+C:\Users\anuwat\source\repos\csoop\ClassesCS\ClassesCS\bin\Debug\ClassesCS.exe.config
+C:\Users\anuwat\source\repos\csoop\ClassesCS\ClassesCS\bin\Debug\ClassesCS.exe
+C:\Users\anuwat\source\repos\csoop\ClassesCS\ClassesCS\bin\Debug\ClassesCS.pdb
+C:\Users\anuwat\source\repos\csoop\ClassesCS\ClassesCS\obj\Debug\ClassesCS.csprojAssemblyReference.cache
+C:\Users\anuwat\source\repos\csoop\ClassesCS\ClassesCS\obj\Debug\ClassesCS.csproj.CoreCompileInputs.cache
+C:\Users\anuwat\source\repos\csoop\ClassesCS\ClassesCS\obj\Debug\ClassesCS.exe
+C:\Users\anuwat\source\repos\csoop\ClassesCS\ClassesCS\obj\Debug\ClassesCS.pdb
