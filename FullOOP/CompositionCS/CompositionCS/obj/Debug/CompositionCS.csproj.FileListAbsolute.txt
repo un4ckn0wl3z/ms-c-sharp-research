@@ -1,0 +1,7 @@
+C:\Users\anuwat\source\repos\csoop\CompositionCS\CompositionCS\bin\Debug\CompositionCS.exe.config
+C:\Users\anuwat\source\repos\csoop\CompositionCS\CompositionCS\bin\Debug\CompositionCS.exe
+C:\Users\anuwat\source\repos\csoop\CompositionCS\CompositionCS\bin\Debug\CompositionCS.pdb
+C:\Users\anuwat\source\repos\csoop\CompositionCS\CompositionCS\obj\Debug\CompositionCS.csprojAssemblyReference.cache
+C:\Users\anuwat\source\repos\csoop\CompositionCS\CompositionCS\obj\Debug\CompositionCS.csproj.CoreCompileInputs.cache
+C:\Users\anuwat\source\repos\csoop\CompositionCS\CompositionCS\obj\Debug\CompositionCS.exe
+C:\Users\anuwat\source\repos\csoop\CompositionCS\CompositionCS\obj\Debug\CompositionCS.pdb

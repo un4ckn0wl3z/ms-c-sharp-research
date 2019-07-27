@@ -1,0 +1,7 @@
+C:\Users\anuwat\source\repos\csoop\InheritanceCS\InheritanceCS\bin\Debug\InheritanceCS.exe.config
+C:\Users\anuwat\source\repos\csoop\InheritanceCS\InheritanceCS\bin\Debug\InheritanceCS.exe
+C:\Users\anuwat\source\repos\csoop\InheritanceCS\InheritanceCS\bin\Debug\InheritanceCS.pdb
+C:\Users\anuwat\source\repos\csoop\InheritanceCS\InheritanceCS\obj\Debug\InheritanceCS.csprojAssemblyReference.cache
+C:\Users\anuwat\source\repos\csoop\InheritanceCS\InheritanceCS\obj\Debug\InheritanceCS.csproj.CoreCompileInputs.cache
+C:\Users\anuwat\source\repos\csoop\InheritanceCS\InheritanceCS\obj\Debug\InheritanceCS.exe
+C:\Users\anuwat\source\repos\csoop\InheritanceCS\InheritanceCS\obj\Debug\InheritanceCS.pdb
